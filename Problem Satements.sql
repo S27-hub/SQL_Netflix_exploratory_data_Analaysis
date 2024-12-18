@@ -1,0 +1,14 @@
+-- 1. Total number of shows (movies+TV_shows)
+-- 2. Total number of movies and tv shows
+-- 3. Find the ratings for movies and TV shows
+-- 4. Find the top three countries with the most content on netflix
+-- 5. Listing the all TV shows and Movies in year 2023
+-- 6. Total number of movies and TV shows released in 2023
+-- 7. Number of TV shows and number of Movies released in year 2023
+-- 8. Find the number of genre and movies or TV shows relased in respective genre
+-- 9. Finding the Genre having the maximum number of shows relased
+-- 10. Finding the total number of countries and movies relased in the respective countries
+-- 11. Identify the longest movie duration.
+-- 12. List of number of all the TV shows with 3 seasons with their respective Genre
+-- 13. Maximum number of movies relased in a specific year i.e 2022
+-- 14. Ratings of "R" in tv shows accoridng to their respective genre
